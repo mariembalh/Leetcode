@@ -1,6 +1,6 @@
-# Leetcode
+## Leetcode for new users
 
-13. Roman to Integer 
+### 13. Roman to Integer 
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
 Symbol       Value
@@ -19,9 +19,15 @@ Roman numerals are usually written largest to smallest from left to right. Howev
     I can be placed before V (5) and X (10) to make 4 and 9.
     X can be placed before L (50) and C (100) to make 40 and 90.
     C can be placed before D (500) and M (1000) to make 400 and 900.
-
 Given a roman numeral, convert it to an integer.
 
-234. Palindrome Linked List
+
+### 234. Palindrome Linked List
 
 Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
+
+
+### 383. Ransom Note
+
+Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.
+Each letter in magazine can only be used once in ransomNote.
