@@ -29,13 +29,7 @@ public:
         }
         sort(soldiers.begin(), soldiers.end(), cmp);
         int i=0;
-        for (auto& it : soldiers) {
-            if(i<k)
-            {
-                response.push_back(it.first);
-                i++;
-            }
-        }
+        for (int i=0; i<k; i++)response.push_back(soldiers[i].first);
         return response;
     }
 };
