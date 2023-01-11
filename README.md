@@ -31,3 +31,12 @@ Given the head of a singly linked list, return true if it is a palindrome or fal
 
 Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.
 Each letter in magazine can only be used once in ransomNote.
+
+
+### 412. Fizz Buzz
+Given an integer n, return a string array answer (1-indexed) where:
+
+    answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
+    answer[i] == "Fizz" if i is divisible by 3.
+    answer[i] == "Buzz" if i is divisible by 5.
+    answer[i] == i (as a string) if none of the above conditions are true.
