@@ -55,5 +55,9 @@ A row i is weaker than a row j if one of the following is true:
 
     The number of soldiers in row i is less than the number of soldiers in row j.
     Both rows have the same number of soldiers and i < j.
-    
+ 
+### 1342. Number of Steps to Reduce a Number to Zero
+
 Return the indices of the k weakest rows in the matrix ordered from weakest to strongest.
+Given an integer num, return the number of steps to reduce it to zero.
+In one step, if the current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it.
