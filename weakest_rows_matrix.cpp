@@ -23,12 +23,10 @@ public:
                 else 
                     break;
             }
-            cout << endl;
             soldiers.push_back(make_pair(i,nb_soldier));
         
         }
         sort(soldiers.begin(), soldiers.end(), cmp);
-        int i=0;
         for (int i=0; i<k; i++)response.push_back(soldiers[i].first);
         return response;
     }
