@@ -61,3 +61,11 @@ A row i is weaker than a row j if one of the following is true:
 Return the indices of the k weakest rows in the matrix ordered from weakest to strongest.
 Given an integer num, return the number of steps to reduce it to zero.
 In one step, if the current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it.
+
+### 1672. Richest Customer Wealth
+
+You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the i​​​​​​​​​​​th​​​​ customer has in the j​​​​​​​​​​​th​​​​ bank. Return the wealth that the richest customer has.
+
+A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.
+
+
