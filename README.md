@@ -29,5 +29,5 @@ Given the head of a singly linked list, return true if it is a palindrome or fal
 
 ### 383. Ransom Note
 
-Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.
-Each letter in magazine can only be used once in ransomNote.
+<sub>Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.
+Each letter in magazine can only be used once in ransomNote.</sub>
